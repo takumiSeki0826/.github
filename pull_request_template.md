@@ -10,7 +10,7 @@
 
 ## What reviewee wants reviewer to check
 
-## Checkboxes before this PR is reviewed
+## Checklist to review before requesting a review
 - [ ] I have fulfilled the requirements of the corresponding task.
 - [ ] I have verified that all the changes function correctly.
 - [ ] Keep the 'diff' to 500 lines or fewer.
