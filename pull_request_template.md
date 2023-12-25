@@ -4,7 +4,7 @@
 
 ## Test Spec Link
 
-## Screenshot
+## Screenshots
 
 ## What reviewer needs to check
 
