@@ -6,6 +6,10 @@
 
 ## Screenshots
 
+## Screenshots of test results
+
+## What reviewer needs to prepare for reviewing
+
 ## What reviewer needs to check
 
 ## What reviewee wants reviewer to check
